@@ -67,4 +67,10 @@ modules:
       - git
       - obs-studio
       - flatpak-xdg-utils
-
+      
+      - bcache-tools
+      - bcachefs-tools
+      - gnome-disk-utility
+      - fcitx5-rime
+      - python3-tkinter
+      - python3-devel
